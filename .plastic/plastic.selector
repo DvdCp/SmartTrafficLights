@@ -1,0 +1,3 @@
+rep "SmartTrafficLights@a_claro@cloud"
+  path "/"
+    smartbranch "/main"
