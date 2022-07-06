@@ -24,7 +24,7 @@ Python installed to make script that analyse data to work.
         <td align="center" valign="top">
         <img width="100" height="100" src="https://avatars.githubusercontent.com/u/46301704?s=400&u=7f2ca1470b161bcb977b9fd5e1b9f700afff64c8&v=4">
         <br>
-        <a href="https://github.com/DvdCp">Davide Capuano</a>
+        <a href="https://github.com/DvdCp">David Capuano</a>
       </td>      
       </tr>
   </tbody>
