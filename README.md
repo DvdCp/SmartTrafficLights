@@ -1,4 +1,4 @@
-# Cognitive semaphores
+# Smart Traffic Lights
 
 ### Thesis project:
 One of the worst problem of today, is driving. Driving has become really frustrating and
